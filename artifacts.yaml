@@ -1,0 +1,3 @@
+model1:
+  path: models/model.h5
+  type: model

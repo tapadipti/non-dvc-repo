@@ -1,0 +1,5 @@
+frozen: true
+deps:
+- path: s3://model1.h5
+outs:
+- path: model.h5
